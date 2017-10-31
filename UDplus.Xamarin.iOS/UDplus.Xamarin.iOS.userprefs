@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="UDplus.Xamarin.iOS/ApiDefinition.cs">
+    <Files>
+      <File FileName="UDplus.Xamarin.iOS/ApiDefinition.cs" Line="338" Column="3" />
+      <File FileName="UDplus.Xamarin.iOS/Structs.cs" Line="2" Column="19" />
+      <File FileName="UDplus.Xamarin.iOS/libUMAnalytics.linkwith.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

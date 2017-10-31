@@ -1,0 +1,5 @@
+/Users/youming/Projects/UDplus.Xamarin.iOS/UDplus.Xamarin.iOS/obj/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/youming/Projects/UDplus.Xamarin.iOS/UDplus.Xamarin.iOS/bin/Debug/UDplus.Xamarin.iOS.pdb
+/Users/youming/Projects/UDplus.Xamarin.iOS/UDplus.Xamarin.iOS/bin/Debug/UDplus.Xamarin.iOS.dll
+/Users/youming/Projects/UDplus.Xamarin.iOS/UDplus.Xamarin.iOS/obj/Debug/UDplus.Xamarin.iOS.dll
+/Users/youming/Projects/UDplus.Xamarin.iOS/UDplus.Xamarin.iOS/obj/Debug/UDplus.Xamarin.iOS.pdb
